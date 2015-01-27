@@ -1,0 +1,3 @@
+[submodule "Quicktionary"]
+	path = Quicktionary
+	url = https://github.com/Salmela/Quicktionary.git
